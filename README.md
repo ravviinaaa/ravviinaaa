@@ -67,9 +67,9 @@ Hi there! 👋 I'm **K Ravina**, a Computer Science & Engineering student at Dr.
 
 > `HTML` `CSS` `JavaScript` `PHP` `MySQL`
 
-* Contributed to the development of a **Diagnostic Lab Assistant** system handling patient reports and lab workflow routines[cite: 2].
-* Implemented responsive user interfaces and enhanced frontend web performance[cite: 2].
-* Performed application testing, debugging, and cross-functional feature updates[cite: 2].
+* Contributed to the development of a **Diagnostic Lab Assistant** system handling patient reports and lab workflow routines.
+* Implemented responsive user interfaces and enhanced frontend web performance.
+* Performed application testing, debugging, and cross-functional feature updates.
 </details>
 
 ---
@@ -78,21 +78,21 @@ Hi there! 👋 I'm **K Ravina**, a Computer Science & Engineering student at Dr.
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **Hyperlocal E-Commerce Platform** | `HTML` `CSS` `JS` `MySQL` | Built buyer/vendor ordering portal with complete cart management & authentication workflows[cite: 2]. | [GitHub](https://github.com/ravviinaaa/Hyperlocal-Ecommerce-Platform) |
-| **Diagnostic Lab System** | `PHP` `MySQL` `JS` | Automated laboratory operations, test report publishing, and patient database records[cite: 2]. | [GitHub](https://github.com/ravviinaaa/Diagnostic-lab-management-system) |
-| **Progress Your Process** | `Django` `MySQL` `HTML` `CSS` | E-commerce engine featuring user authentication, navigation state, and order tracking[cite: 2]. | [GitHub](https://github.com/ravviinaaa) |
-| **Digital Notice Board** | `HTML` `CSS` `JS` | Web application for centralized digital notice distribution and communication[cite: 2]. | [GitHub](https://github.com/ravviinaaa) |
-| **LeetCode Practice** | `Java` | Repository of optimized data structures and algorithmic problem solutions[cite: 2]. | [GitHub](https://github.com/ravviinaaa/LeetCode-Tracker) |
+| **Hyperlocal E-Commerce Platform** | `HTML` `CSS` `JS` `MySQL` | Built buyer/vendor ordering portal with complete cart management & authentication workflows. | [GitHub](https://github.com/ravviinaaa/Hyperlocal-Ecommerce-Platform) |
+| **Diagnostic Lab System** | `PHP` `MySQL` `JS` | Automated laboratory operations, test report publishing, and patient database records. | [GitHub](https://github.com/ravviinaaa/Diagnostic-lab-management-system) |
+| **Progress Your Process** | `Django` `MySQL` `HTML` `CSS` | E-commerce engine featuring user authentication, navigation state, and order tracking. | [GitHub](https://github.com/ravviinaaa) |
+| **Digital Notice Board** | `HTML` `CSS` `JS` | Web application for centralized digital notice distribution and communication. | [GitHub](https://github.com/ravviinaaa) |
+| **LeetCode Practice** | `Java` | Repository of optimized data structures and algorithmic problem solutions. | [GitHub](https://github.com/ravviinaaa/LeetCode-Tracker) |
 
 ---
 
 ### 📜 Certifications & Achievements
 
-- **NPTEL:** Cloud Computing, Internet of Things (IoT), Social Networks[cite: 2]
-- **MongoDB:** MongoDB Basics, AI & Vector Search[cite: 2]
-- **MATLAB Onramp:** Machine Learning, Deep Learning, Computer Vision[cite: 2]
-- **Microsoft:** Creating Machine Learning Models[cite: 2]
-- **Research Presentation:** Presented paper on *"Border Detection System"* at KPR Institute of Engineering & Technology[cite: 2].
+- **NPTEL:** Cloud Computing, Internet of Things (IoT), Social Networks
+- **MongoDB:** MongoDB Basics, AI & Vector Search
+- **MATLAB Onramp:** Machine Learning, Deep Learning, Computer Vision
+- **Microsoft:** Creating Machine Learning Models
+- **Research Presentation:** Presented paper on *"Border Detection System"* at KPR Institute of Engineering & Technology.
 
 ---
 
