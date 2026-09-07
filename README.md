@@ -24,7 +24,7 @@
 
 Hi there! 👋 I'm **K Ravina**, a Computer Science & Engineering student at Dr. N.G.P. Institute of Technology. I am passionate about building scalable web applications, tackling complex software development challenges, and exploring machine learning fundamentals.
 
-* 🎓 **Education:** B.E. in Computer Science & Engineering (2023–2027) | CGPA: 7.9
+* 🎓 **Education:** B.E. in Computer Science & Engineering (2023–2027) | CGPA: 8.0
 * 💼 **Experience:** Full-Stack Web Development Intern at *Accent Technosoft*
 * 🚀 **Core Focus:** Full-stack architecture, database design, and intelligent software workflows
 * 📍 **Location:** Coimbatore, Tamil Nadu, India
