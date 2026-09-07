@@ -1,25 +1,32 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=K%20Ravina&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Full%20Stack%20%26%20Java%20Enthusiast&descAlignY=62&descSize=16" width="100%" />
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Web+Developer;Java+%26+Data+Structures+Enthusiast;Building+Scalable+Web+Applications" />
-</div>
+# K Ravina
 
-<br/>
+Software Developer focused on **Java**, **Data Structures**, and **Full-Stack Web Development**.
 
-### 💫 About Me
+[LinkedIn](https://linkedin.com) • [Email](mailto:your.email@example.com) • [LeetCode](https://leetcode.com)
 
-<p align="right">
-  <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+---
+
+### 🧰 Tech Stack
+
+**Languages**
+`Java` `JavaScript` `PHP` `HTML5` `CSS3` `SQL`
+
+**Tools & Databases**
+`MySQL` `Git` `GitHub` `VS Code`
+
+---
+
+### 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ravviinaaa&show_icons=true&theme=catppuccin_latte&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravviinaaa&layout=compact&theme=catppuccin_latte&hide_border=true" width="48%" />
 </p>
 
-```java
-public class Developer {
-    private String name = "K Ravina";
-    private String username = "ravviinaaa";
-    private String[] coreStack = {"Java", "JavaScript", "PHP", "MySQL"};
-    private String[] currentlyLearning = {"Advanced Data Structures", "Full Stack Development"};
+---
 
-    public String getMotto() {
-        return "Consistent learning and problem solving daily.";
-    }
-}
+### ⚡ Key Repositories
+
+* **[Diagnostic Lab Management System](https://github.com/ravviinaaa/Diagnostic-lab-management-system)** — Healthcare workflow application built with PHP & MySQL.
+* **[Hyperlocal E-Commerce Platform](https://github.com/ravviinaaa/Hyperlocal-Ecommerce-Platform)** — Web application linking local vendors with neighborhood buyers.
+* **[LeetCode Tracker](https://github.com/ravviinaaa/LeetCode-Tracker)** — Organized Java solutions for algorithmic problems.
